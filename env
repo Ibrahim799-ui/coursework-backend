@@ -1,0 +1,2 @@
+PORT=5001
+MONGO_URI=mongodb+srv://farukkawujr:13fM9G8Xj0XtpE1i@cluster0.01pmx.mongodb.net/lessons?retryWrites=true&w=majority&appName=Cluster0
