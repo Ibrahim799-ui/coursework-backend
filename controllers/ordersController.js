@@ -27,11 +27,10 @@ exports.getOrders = async (req, res) => {
 // Create a new order
 exports.createOrder = async (req, res) => {
     try {
-        const { lessonId, customerName, email, phone } = req.body;
+        const { lessonId, name, phone } = req.body;
         const orderDoc = {
             lessonId: new ObjectId(lessonId),
-            customerName,
-            email,
+            name,
             phone,
             date: new Date()
         };
