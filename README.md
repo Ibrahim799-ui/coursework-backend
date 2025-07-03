@@ -13,3 +13,9 @@
 - [Frontend Repository](https://github.com/Ibrahim799-ui/coursework-frontend)
 - [Backend Repository](https://github.com/Ibrahim799-ui/coursework-backend)
 
+## Backend End Points
+
+- [Lesson - GET](https://coursework-backend-rtd0.onrender.com/api/lessons)
+- [Orders - GET](https://coursework-backend-rtd0.onrender.com/api/orders)
+- [Orders - POST](https://coursework-backend-rtd0.onrender.com/api/orders)
+
